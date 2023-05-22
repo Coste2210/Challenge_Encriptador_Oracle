@@ -51,4 +51,4 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carlos-david-ortiz-caro/)
 
-[![GitHub](https://img.shields.io/badge/patrickwebsdev-black?logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/Coste2210)
+[![GitHub](https://img.shields.io/badge/Coste2210-black?logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/Coste2210)
