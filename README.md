@@ -1,8 +1,8 @@
-<div align="center"><img src"" width="200"/></div>
+<div align="center"><img src"https://raw.githubusercontent.com/Coste2210/Challenge_Encriptador_Oracle/master/imagenes/one.png" width="200"/></div> 
 
 # 🚀 Challenge Encriptador | Oracle + Alura
 <p align="center" >
-     <img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/screenshot-new.png">
+     <img src="https://raw.githubusercontent.com/Coste2210/Challenge_Encriptador_Oracle/master/imagenes/CHALLENGE 1.png">
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
